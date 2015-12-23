@@ -16,6 +16,7 @@
     },
     {
         "name": "A\u011eRI",
+        "keyword": ["agri"],
         "lon": 39.720392,
         "lat": 43.047472
     },
@@ -36,6 +37,7 @@
     },
     {
         "name": "ARTV\u0130N",
+        "keyword":  ["artvin"],
         "lon": 41.183241,
         "lat": 41.818072
     },
@@ -46,21 +48,25 @@
     },
     {
         "name": "BALIKES\u0130R",
+        "keyword":  ["balikesir"],
         "lon": 39.649055,
         "lat": 27.881532
     },
     {
         "name": "B\u0130LEC\u0130K",
+        "keyword":  ["bilecik"],
         "lon": 40.150013,
         "lat": 29.982694
     },
     {
         "name": "B\u0130NG\u00d6L",
+        "keyword":  ["bingol"],
         "lon": 38.884619,
         "lat": 40.49661
     },
     {
         "name": "B\u0130TL\u0130S",
+        "keyword":  ["bitlis"],
         "lon": 38.393743,
         "lat": 38.393743
     },
@@ -81,41 +87,49 @@
     },
     {
         "name": "\u00c7ANAKKALE",
+        "keyword":  ["canakkale"],
         "lon": 40.154999,
         "lat": 26.413484
     },
     {
         "name": "\u00c7ANKIRI",
+        "keyword":  ["cankiri"],
         "lon": 40.601832,
         "lat": 33.613503
     },
     {
         "name": "\u00c7ORUM",
+        "keyword":  ["corum"],
         "lon": 40.551113,
         "lat": 34.956041
     },
     {
         "name": "DEN\u0130ZL\u0130",
+        "keyword":  ["denizli"],
         "lon": 37.7756,
         "lat": 29.08826
     },
     {
         "name": "D\u0130YARBAKIR",
+        "keyword":  ["diyarbakir"],
         "lon": 37.914951,
         "lat": 40.228397
     },
     {
         "name": "ED\u0130RNE",
+        "keyword":  ["edirne"],
         "lon": 41.68163,
         "lat": 26.56077
     },
     {
         "name": "ELAZI\u011e",
+        "keyword":  ["elazig"],
         "lon": 38.680686,
         "lat": 39.226581
     },
     {
         "name": "ERZ\u0130NCAN",
+        "keyword":  ["erzincan"],
         "lon": 39.750226,
         "lat": 39.01634
     },
@@ -126,26 +140,31 @@
     },
     {
         "name": "ESK\u0130\u015eEH\u0130R",
+        "keyword":  ["eskisehir"],
         "lon": 39.77688,
         "lat": 30.519916
     },
     {
         "name": "GAZ\u0130ANTEP",
+        "keyword":  ["gaziantep"],
         "lon": 37.065862,
         "lat": 37.384706
     },
     {
         "name": "G\u0130RESUN",
+        "keyword":  ["giresun"],
         "lon": 40.912475,
         "lat": 38.390985
     },
     {
         "name": "G\u00dcM\u00dc\u015eHANE",
+        "keyword":  ["gumushane"],
         "lon": 40.440676,
         "lat": 39.508158
     },
     {
         "name": "HAKKAR\u0130",
+        "keyword":  ["hakkari"],
         "lon": 37.583222,
         "lat": 43.733628
     },
@@ -161,16 +180,19 @@
     },
     {
         "name": "\u0130\u00c7EL",
+        "keyword":  ["icel"],
         "lon": 36.536123,
         "lat": 33.792291
     },
     {
         "name": "\u0130STANBUL",
+        "keyword":  ["istanbul"],
         "lon": 41.002703,
         "lat": 28.987013
     },
     {
         "name": "\u0130ZM\u0130R",
+        "keyword":  ["izmir"],
         "lon": 38.421318,
         "lat": 27.125037
     },
@@ -186,6 +208,7 @@
     },
     {
         "name": "KAYSER\u0130",
+        "keyword":  ["kayseri"],
         "lon": 38.734804,
         "lat": 35.48014
     },
@@ -196,11 +219,13 @@
     },
     {
         "name": "KIR\u015eEH\u0130R",
+        "keyword":  ["kirsehir"],
         "lon": 39.142044,
         "lat": 34.171205
     },
     {
         "name": "KOCAEL\u0130",
+        "keyword":  ["kocaeli"],
         "lon": 40.855371,
         "lat": 29.890639
     },
@@ -211,6 +236,7 @@
     },
     {
         "name": "K\u00dcTAHYA",
+        "keyword":  ["kutahya"],
         "lon": 39.416568,
         "lat": 29.983354
     },
@@ -221,36 +247,43 @@
     },
     {
         "name": "MAN\u0130SA",
+        "keyword":  ["manisa"],
         "lon": 38.621162,
         "lat": 27.428638
     },
     {
         "name": "K.MARA\u015e",
+        "keyword": ["kahramanmaras","maras","k.maras"],
         "lon": 38.61848,
         "lat": 27.430698
     },
     {
         "name": "MARD\u0130N",
+        "keyword": ["mardin"],
         "lon": 37.320755,
         "lat": 40.726267
     },
     {
         "name": "MU\u011eLA",
+        "keyword": ["mugla"],
         "lon": 37.215702,
         "lat": 28.362725
     },
     {
         "name": "MU\u015e",
+        "keyword": ["mus"],
         "lon": 38.743641,
         "lat": 41.50512
     },
     {
         "name": "NEV\u015eEH\u0130R",
+        "keyword": ["nevsehir"],
         "lon": 38.626527,
         "lat": 34.711939
     },
     {
         "name": "N\u0130\u011eDE",
+        "keyword": ["nigde"],
         "lon": 37.966125,
         "lat": 34.682756
     },
@@ -261,6 +294,7 @@
     },
     {
         "name": "R\u0130ZE",
+        "keyword": ["rize"],
         "lon": 41.021355,
         "lat": 40.523655
     },
@@ -276,21 +310,25 @@
     },
     {
         "name": "S\u0130\u0130RT",
+        "keyword": ["siirt"],
         "lon": 37.933096,
         "lat": 41.949182
     },
     {
         "name": "S\u0130NOP",
+        "keyword": ["sinop"],
         "lon": 42.022263,
         "lat": 35.152027
     },
     {
         "name": "S\u0130VAS",
+        "keyword": ["sivas"],
         "lon": 39.747322,
         "lat": 37.020389
     },
     {
         "name": "TEK\u0130RDA\u011e",
+        "keyword": ["tekirdag"],
         "lon": 40.984563,
         "lat": 27.517902
     },
@@ -306,6 +344,7 @@
     },
     {
         "name": "TUNCEL\u0130",
+        "keyword": ["tunceli"],
         "lon": 39.105421,
         "lat": 39.545777
     },
@@ -316,6 +355,7 @@
     },
     {
         "name": "U\u015eAK",
+        "keyword": ["usak"],
         "lon": 38.681222,
         "lat": 29.407945
     },
@@ -351,6 +391,7 @@
     },
     {
         "name": "KIRKLAREL\u0130",
+        "keyword": ["kirklareli"],
         "lon": 41.733661,
         "lat": 27.216027
     },
@@ -361,6 +402,7 @@
     },
     {
         "name": "\u015eIRNAK",
+        "keyword": ["sirnak"],
         "lon": 37.518985,
         "lat": 42.460587
     },
@@ -376,6 +418,7 @@
     },
     {
         "name": "I\u011eDIR",
+        "keyword": ["igdir"],
         "lon": 39.918689,
         "lat": 44.066059
     },
@@ -386,21 +429,25 @@
     },
     {
         "name": "KARAB\u00dcK",
+        "keyword": ["karabuk"],
         "lon": 41.203456,
         "lat": 32.622425
     },
     {
         "name": "K\u0130L\u0130S",
+        "keyword": ["kilis"],
         "lon": 36.718522,
         "lat": 37.120374
     },
     {
         "name": "OSMAN\u0130YE",
+        "keyword": ["osmaniye"],
         "lon": 37.069697,
         "lat": 36.252085
     },
     {
         "name": "D\u00dcZCE",
+        "keyword": ["duzce"],
         "lon": 40.843165,
         "lat": 31.156342
     }
